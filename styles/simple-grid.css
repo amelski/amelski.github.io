@@ -16,14 +16,14 @@ body {
   left: 0;
   top: 0;
   font-size: 100%;
-  background-color: #FFF8F5;
+  background-color: #FFF5F0;
 }
 
 /* ROOT FONT STYLES */
 
 * {
   font-family: 'Lato', Helvetica, sans-serif;
-  color: #B79CEE;
+  color: #9F3724;
   line-height: 1.5;
 }
 
@@ -57,7 +57,7 @@ p {
   font-size: 1.125rem;
   font-weight: 200;
   line-height: 1.8;
-  color: #8BA12B;
+  color: #B98276;
 }
 
 .font-light {
